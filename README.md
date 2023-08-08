@@ -1,13 +1,8 @@
- https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj7549&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj7549" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiraj7549" alt="dhiraj7549" /></a> </p>
-
 - 📫 How to reach me **kumardhiraj09204@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/dhirajk72445068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dhirajk72445068" height="30" width="40" /></a>
